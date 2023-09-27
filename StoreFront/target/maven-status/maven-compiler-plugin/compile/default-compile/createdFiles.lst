@@ -1,0 +1,6 @@
+com\example\StoreFront\products\ProductsRepository.class
+com\example\StoreFront\products\ProductService.class
+com\example\StoreFront\controller\StoreFrontController.class
+com\example\StoreFront\products\Products.class
+com\example\StoreFront\util\annotations\Inject.class
+com\example\StoreFront\util\ConnectionUtil.class
